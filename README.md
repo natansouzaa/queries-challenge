@@ -4,9 +4,9 @@
 
 ### Teste do repositório de usuários
 
-- [] Should be able to find user with games list by user's ID
-- [] Should be able to list users ordered by first name
-- [] Should be able to find user by full name
+- [x] Should be able to find user with games list by user's ID
+- [x] Should be able to list users ordered by first name
+- [x] Should be able to find user by full name
 
 ---
 
